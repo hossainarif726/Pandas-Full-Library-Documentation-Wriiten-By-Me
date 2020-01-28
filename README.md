@@ -34,7 +34,3 @@
 ## Technologies
 Documentation is created with:
 * Jupyter Notebook
-
-
-All Function's Reference is created with:
-* Microsoft Word
